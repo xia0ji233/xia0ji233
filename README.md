@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋A CTFer from Nepnep    
+</br>
 
-<!--
-**xia0ji233/xia0ji233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 主要学习二进制安全相关
+- 🍃 国家一级划水运动员
+- 🍔 Blog: http://xia0ji233.github.io/</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://xia0ji233.blog.csdn.net/
+</br></br>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xia0ji233&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xia0ji233" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github contribution grid snake animation](https://github.com/xia0ji233/xia0ji233/blob/output/github-contribution-grid-snake.svg)
